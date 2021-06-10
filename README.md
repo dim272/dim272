@@ -5,7 +5,7 @@
 Работаю с 
 - Python 
 - request / beautifulsoup
-- sqlite / ORM / peewee
+- PosgreSQL / ORM / peewee / sqlite
 - aiogram / asyncio
 
 Телеграм боты: 
