@@ -63,7 +63,7 @@ https://dim272.github.io/PlusMinus.top/
 
 Домашняя ОС Linux Mint, поэтому терминала не боюсь.
 
-- 📫 Telegram @dim272
+- 📫 Telegram https://t.me/dim272
 
 <!---
 dim272/dim272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
